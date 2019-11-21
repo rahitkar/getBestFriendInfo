@@ -2,6 +2,10 @@ const makeStucture = require("./src/getBestFriendInfoFuncs.js").makeStucture;
 const getFriendsInfo = require("./src/getBestFriendInfoFuncs.js")
   .getFriendsInfo;
 
+
+
+
+
 const nameAndInfo = [
   ["Priyanshu", "Sahil", "Shanti", "Ragini"],
   ["Rashmi", "Pallav", "Pallavi", "Pallabi"],
