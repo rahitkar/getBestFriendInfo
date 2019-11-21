@@ -1,0 +1,20 @@
+{
+  "name": "bestfriendsinfo_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getBestFriendsInfo.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nyc mocha",
+    "start": "node getBestFriendsInfo.js",
+    "pritify": "prettire --write getBestFriendInfo.js"
+  },
+  "devDependencies": {
+    "mocha": "6.2.2",
+    "nyc": "14.1.1"
+  },
+  "autor": "Rahit",
+  "license": "ISC"
+}
